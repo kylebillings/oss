@@ -321,6 +321,9 @@
   .section {
     padding: 12rem 0 12rem;
   }
+  .video-section .section {
+    padding-top: 16rem;
+  }
   .hero {
     padding: 18rem 0;
   }
