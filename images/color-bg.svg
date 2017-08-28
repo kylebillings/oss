@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1298px" viewBox="0 0 1440 1298" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>color-bgs</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="16.1556874%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#27629D" offset="0%"></stop>
+            <stop stop-color="#0C2849" offset="100%"></stop>
+        </linearGradient>
+        <path d="M-2.27373675e-13,0 L1440,0 L1440,725 C1440,725 743.233805,899.419709 -2.27373675e-13,901 C-2.27373675e-13,901.889363 -2.27373675e-13,0 -2.27373675e-13,0 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="1.40306122%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#62B55C" offset="0%"></stop>
+            <stop stop-color="#24A71E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Salesy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="oss-v5" transform="translate(0.000000, -1374.000000)">
+            <g id="color-bgs" transform="translate(0.000000, 1374.000000)">
+                <g id="grid-copy" transform="translate(0.000000, 397.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <path d="M0,96 C0,96 720,1.29152 1440,-4.54747351e-13 C1440,2.87939653 1440,549.546367 1440,549 C720,549.534767 0,429 0,429 L0,96 Z" id="bg-copy-2" fill="url(#linearGradient-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
